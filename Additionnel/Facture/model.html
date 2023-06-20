@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Facture de location de voiture</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .invoice-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .invoice-header img {
+            width: 150px;
+            height: auto;
+        }
+        .invoice-details {
+            margin-bottom: 20px;
+        }
+        .invoice-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .invoice-table th, .invoice-table td {
+            border: 1px solid #ccc;
+            padding: 8px;
+        }
+        .invoice-total {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="invoice-header">
+        <img src="C:\Users\belinfo\Documents\RentCar\Additionnel\icons\car.png" alt="ELITE LUXURY">
+        <h1>Facture de location de voiture</h1>
+    </div>
+    <div class="invoice-details">
+        <p><strong>Nom du client:</strong> #clientName#</p>
+        <p><strong>Date:</strong>#TODAY#</p>
+    </div>
+    <table class="invoice-table">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Prix/Jour</th>
+                <th>Nb Jour</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Location de voiture</td>
+                <td>#DAYPRICE#</td>
+                <td>#NUMBEROFDAYS#</td>
+                <td>#SUM#</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="invoice-total">
+        <p><strong>Total:</strong> #SUM#</p>
+    </div>
+</body>
+</html>

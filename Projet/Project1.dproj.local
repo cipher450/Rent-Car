@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/31 08:47:16.000.069,=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/11/21 11:16:12.000.997,=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 11:10:34.000.420,=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 11:10:50.000.769,C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2023/05/20 15:47:02.000.470,=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2023/05/20 15:47:23.000.602,=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2023/05/20 15:57:03.000.098,C:\Users\belinfo\Documents\RentCar\Projet\Unit2.dfm=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2023/05/20 15:57:03.000.098,C:\Users\belinfo\Documents\RentCar\Projet\Unit2.pas=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2023/05/20 16:00:42.000.783,C:\Users\belinfo\Documents\RentCar\Projet\Project1.dproj=C:\Users\belinfo\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2023/05/20 16:01:17.000.111,=C:\Users\belinfo\Documents\RentCar\Projet\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 17:50:56.000.311,=D:\RentCar\Projet\Unit4.pas</Transaction>
+    <Transaction>2023/05/20 19:19:05.000.563,=C:\Users\Lenov0\Desktop\RentCar\Projet\Unit3.pas</Transaction>
+    <Transaction>2023/05/23 04:02:08.000.568,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit1.pas=C:\Users\Lenov0\Desktop\RentCar\Projet\Catalogue.pas</Transaction>
+    <Transaction>2023/05/23 04:02:08.000.568,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit1.dfm=C:\Users\Lenov0\Desktop\RentCar\Projet\Catalogue.dfm</Transaction>
+    <Transaction>2023/05/23 04:04:24.000.293,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit3.dfm=C:\Users\Lenov0\Desktop\RentCar\Projet\Stock.dfm</Transaction>
+    <Transaction>2023/05/23 04:04:24.000.293,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit3.pas=C:\Users\Lenov0\Desktop\RentCar\Projet\Stock.pas</Transaction>
+    <Transaction>2023/05/23 04:15:08.000.193,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit2.dfm=C:\Users\Lenov0\Desktop\RentCar\Projet\Menu.dfm</Transaction>
+    <Transaction>2023/05/23 04:15:08.000.193,C:\Users\Lenov0\Desktop\RentCar\Projet\Unit2.pas=C:\Users\Lenov0\Desktop\RentCar\Projet\Menu.pas</Transaction>
+    <Transaction>2023/05/23 04:15:36.000.380,=C:\Users\Lenov0\Desktop\RentCar\Projet\Unit6.pas</Transaction>
+    <Transaction>2023/05/23 06:31:46.000.052,=C:\Users\Lenov0\Desktop\RentCar\Projet\Unit7.pas</Transaction>
+    <Transaction>2023/05/23 10:27:22.000.979,=C:\Users\belinfo\Documents\RentCar\Projet\Unit5.pas</Transaction>
+    <Transaction>2023/05/23 14:06:21.565,=C:\Users\Lenov0\Desktop\RentCar\Projet\Unit8.pas</Transaction>
+  </Transactions>
+</BorlandProject>
