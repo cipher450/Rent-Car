@@ -1,4 +1,4 @@
-# Rent Car Management Software
+# Car rental management system
 
 Rent Car Management Software is a Delphi 11 application developed during study time for managing car rental operations efficiently. This software provides a user-friendly interface to streamline the process of renting cars, managing customer information, tracking bookings, and generating reports.
 
@@ -25,5 +25,10 @@ Rent Car Management Software is a Delphi 11 application developed during study t
 
 1. Launch the application.
 2. Log in using valid credentials.
-3. Navigate through the intuitive interface to perform various tasks such as managing cars, customers, bookings, and generating reports.
+3. Navigate through the intuitive interface to perform various tasks such as managing cars, customers, bookings.
 
+
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/cipher450/Rent-Car/master/Images/main.png)
+![Screenshot 2](https://raw.githubusercontent.com/cipher450/Rent-Car/master/Images/stock.png)
